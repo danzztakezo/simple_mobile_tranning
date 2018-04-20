@@ -1,0 +1,4 @@
+#Fri Apr 20 14:00:30 WIB 2018
+base.0=/Users/danihimawan/works/research/nativescript/udemy-cources/udemy-courcesApps/platforms/android/app/build/intermediates/transforms/dexMerger/debug/0
+path.0=classes.dex
+renamed.0=classes.dex

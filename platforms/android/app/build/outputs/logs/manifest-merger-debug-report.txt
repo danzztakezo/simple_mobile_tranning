@@ -1,0 +1,200 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/danihimawan/works/research/nativescript/udemy-cources/udemy-courcesApps/platforms/android/app/src/main/AndroidManifest.xml:2:1-43:12
+INJECTED from /Users/danihimawan/works/research/nativescript/udemy-cources/udemy-courcesApps/platforms/android/app/src/main/AndroidManifest.xml:2:1-43:12
+INJECTED from /Users/danihimawan/works/research/nativescript/udemy-cources/udemy-courcesApps/platforms/android/app/src/main/AndroidManifest.xml:2:1-43:12
+INJECTED from /Users/danihimawan/works/research/nativescript/udemy-cources/udemy-courcesApps/platforms/android/app/src/main/AndroidManifest.xml:2:1-43:12
+MERGED from [com.android.support:multidex:1.0.2] /Users/danihimawan/.gradle/caches/transforms-1/files-1.1/multidex-1.0.2.aar/d7eccf8d36a78a67119306ec65eb18a2/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:design:25.3.1] /Users/danihimawan/.gradle/caches/transforms-1/files-1.1/design-25.3.1.aar/dcf88420c0c447237ce000f78feb2b12/AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:appcompat-v7:25.3.1] /Users/danihimawan/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.3.1.aar/178622a03b70ea066c700d2c8561e179/AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:transition:25.3.1] /Users/danihimawan/.gradle/caches/transforms-1/files-1.1/transition-25.3.1.aar/b77777cfda487048199effbacdd22b30/AndroidManifest.xml:17:1-28:12
+MERGED from [com.android.support:support-v4:25.3.1] /Users/danihimawan/.gradle/caches/transforms-1/files-1.1/support-v4-25.3.1.aar/47e785666c71cb6af8022f47f9c56471/AndroidManifest.xml:17:1-31:12
+MERGED from [:nativescript-optimized:] /Users/danihimawan/.gradle/caches/transforms-1/files-1.1/nativescript-optimized.aar/5573a2f9607390d30bb44f3b14099eb8/AndroidManifest.xml:2:1-11:12
+MERGED from [:widgets-release:] /Users/danihimawan/.gradle/caches/transforms-1/files-1.1/widgets-release.aar/1e99472c998cb21f3bf60b06c836c1a6/AndroidManifest.xml:2:1-14:12
+MERGED from [com.android.support:support-fragment:25.3.1] /Users/danihimawan/.gradle/caches/transforms-1/files-1.1/support-fragment-25.3.1.aar/4cd629c7a5ef6b57774a1e594213fdd2/AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-media-compat:25.3.1] /Users/danihimawan/.gradle/caches/transforms-1/files-1.1/support-media-compat-25.3.1.aar/306c6fac50942c2e6841dc0dac58b561/AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-core-utils:25.3.1] /Users/danihimawan/.gradle/caches/transforms-1/files-1.1/support-core-utils-25.3.1.aar/ca35b64a14fe575babd0609df54d00be/AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:recyclerview-v7:25.3.1] /Users/danihimawan/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-25.3.1.aar/2d940ae68215f0121f79645924769629/AndroidManifest.xml:17:1-26:12
+MERGED from [com.android.support:support-core-ui:25.3.1] /Users/danihimawan/.gradle/caches/transforms-1/files-1.1/support-core-ui-25.3.1.aar/41c50383a6cb5245f7ec9d5e0faf012c/AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:animated-vector-drawable:25.3.1] /Users/danihimawan/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-25.3.1.aar/0d00acbddfaf54e8a4dd03fcf1411083/AndroidManifest.xml:17:1-28:12
+MERGED from [com.android.support:support-vector-drawable:25.3.1] /Users/danihimawan/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-25.3.1.aar/06a6bcf7b83028c0796af92226c732a3/AndroidManifest.xml:17:1-28:12
+MERGED from [com.android.support:support-compat:25.3.1] /Users/danihimawan/.gradle/caches/transforms-1/files-1.1/support-compat-25.3.1.aar/f919cd9c0d5d9292ec975b3f4429396f/AndroidManifest.xml:17:1-31:12
+INJECTED from /Users/danihimawan/works/research/nativescript/udemy-cources/udemy-courcesApps/platforms/android/app/src/main/AndroidManifest.xml:2:1-43:12
+INJECTED from /Users/danihimawan/works/research/nativescript/udemy-cources/udemy-courcesApps/platforms/android/app/src/main/AndroidManifest.xml:2:1-43:12
+INJECTED from /Users/danihimawan/works/research/nativescript/udemy-cources/udemy-courcesApps/platforms/android/app/src/main/AndroidManifest.xml:2:1-43:12
+	package
+		ADDED from /Users/danihimawan/works/research/nativescript/udemy-cources/udemy-courcesApps/platforms/android/app/src/main/AndroidManifest.xml:3:2-45
+		INJECTED from /Users/danihimawan/works/research/nativescript/udemy-cources/udemy-courcesApps/platforms/android/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/danihimawan/works/research/nativescript/udemy-cources/udemy-courcesApps/platforms/android/app/src/main/AndroidManifest.xml
+	android:versionName
+		ADDED from /Users/danihimawan/works/research/nativescript/udemy-cources/udemy-courcesApps/platforms/android/app/src/main/AndroidManifest.xml:5:2-27
+		INJECTED from /Users/danihimawan/works/research/nativescript/udemy-cources/udemy-courcesApps/platforms/android/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/danihimawan/works/research/nativescript/udemy-cources/udemy-courcesApps/platforms/android/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /Users/danihimawan/works/research/nativescript/udemy-cources/udemy-courcesApps/platforms/android/app/src/main/AndroidManifest.xml:2:11-69
+	android:versionCode
+		ADDED from /Users/danihimawan/works/research/nativescript/udemy-cources/udemy-courcesApps/platforms/android/app/src/main/AndroidManifest.xml:4:2-25
+		INJECTED from /Users/danihimawan/works/research/nativescript/udemy-cources/udemy-courcesApps/platforms/android/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/danihimawan/works/research/nativescript/udemy-cources/udemy-courcesApps/platforms/android/app/src/main/AndroidManifest.xml
+supports-screens
+ADDED from /Users/danihimawan/works/research/nativescript/udemy-cources/udemy-courcesApps/platforms/android/app/src/main/AndroidManifest.xml:7:2-11:33
+	android:largeScreens
+		ADDED from /Users/danihimawan/works/research/nativescript/udemy-cources/udemy-courcesApps/platforms/android/app/src/main/AndroidManifest.xml:10:3-30
+	android:smallScreens
+		ADDED from /Users/danihimawan/works/research/nativescript/udemy-cources/udemy-courcesApps/platforms/android/app/src/main/AndroidManifest.xml:8:3-30
+	android:normalScreens
+		ADDED from /Users/danihimawan/works/research/nativescript/udemy-cources/udemy-courcesApps/platforms/android/app/src/main/AndroidManifest.xml:9:3-31
+	android:xlargeScreens
+		ADDED from /Users/danihimawan/works/research/nativescript/udemy-cources/udemy-courcesApps/platforms/android/app/src/main/AndroidManifest.xml:11:3-31
+uses-sdk
+ADDED from /Users/danihimawan/works/research/nativescript/udemy-cources/udemy-courcesApps/platforms/android/app/src/main/AndroidManifest.xml:13:2-15:34
+INJECTED from /Users/danihimawan/works/research/nativescript/udemy-cources/udemy-courcesApps/platforms/android/app/src/main/AndroidManifest.xml:13:2-15:34
+INJECTED from /Users/danihimawan/works/research/nativescript/udemy-cources/udemy-courcesApps/platforms/android/app/src/main/AndroidManifest.xml:13:2-15:34
+MERGED from [com.android.support:multidex:1.0.2] /Users/danihimawan/.gradle/caches/transforms-1/files-1.1/multidex-1.0.2.aar/d7eccf8d36a78a67119306ec65eb18a2/AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:multidex:1.0.2] /Users/danihimawan/.gradle/caches/transforms-1/files-1.1/multidex-1.0.2.aar/d7eccf8d36a78a67119306ec65eb18a2/AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:design:25.3.1] /Users/danihimawan/.gradle/caches/transforms-1/files-1.1/design-25.3.1.aar/dcf88420c0c447237ce000f78feb2b12/AndroidManifest.xml:21:5-23:62
+MERGED from [com.android.support:design:25.3.1] /Users/danihimawan/.gradle/caches/transforms-1/files-1.1/design-25.3.1.aar/dcf88420c0c447237ce000f78feb2b12/AndroidManifest.xml:21:5-23:62
+MERGED from [com.android.support:appcompat-v7:25.3.1] /Users/danihimawan/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.3.1.aar/178622a03b70ea066c700d2c8561e179/AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:appcompat-v7:25.3.1] /Users/danihimawan/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.3.1.aar/178622a03b70ea066c700d2c8561e179/AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:transition:25.3.1] /Users/danihimawan/.gradle/caches/transforms-1/files-1.1/transition-25.3.1.aar/b77777cfda487048199effbacdd22b30/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:transition:25.3.1] /Users/danihimawan/.gradle/caches/transforms-1/files-1.1/transition-25.3.1.aar/b77777cfda487048199effbacdd22b30/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:25.3.1] /Users/danihimawan/.gradle/caches/transforms-1/files-1.1/support-v4-25.3.1.aar/47e785666c71cb6af8022f47f9c56471/AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-v4:25.3.1] /Users/danihimawan/.gradle/caches/transforms-1/files-1.1/support-v4-25.3.1.aar/47e785666c71cb6af8022f47f9c56471/AndroidManifest.xml:21:5-23:54
+MERGED from [:nativescript-optimized:] /Users/danihimawan/.gradle/caches/transforms-1/files-1.1/nativescript-optimized.aar/5573a2f9607390d30bb44f3b14099eb8/AndroidManifest.xml:7:5-9:41
+MERGED from [:nativescript-optimized:] /Users/danihimawan/.gradle/caches/transforms-1/files-1.1/nativescript-optimized.aar/5573a2f9607390d30bb44f3b14099eb8/AndroidManifest.xml:7:5-9:41
+MERGED from [:widgets-release:] /Users/danihimawan/.gradle/caches/transforms-1/files-1.1/widgets-release.aar/1e99472c998cb21f3bf60b06c836c1a6/AndroidManifest.xml:7:5-9:41
+MERGED from [:widgets-release:] /Users/danihimawan/.gradle/caches/transforms-1/files-1.1/widgets-release.aar/1e99472c998cb21f3bf60b06c836c1a6/AndroidManifest.xml:7:5-9:41
+MERGED from [com.android.support:support-fragment:25.3.1] /Users/danihimawan/.gradle/caches/transforms-1/files-1.1/support-fragment-25.3.1.aar/4cd629c7a5ef6b57774a1e594213fdd2/AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-fragment:25.3.1] /Users/danihimawan/.gradle/caches/transforms-1/files-1.1/support-fragment-25.3.1.aar/4cd629c7a5ef6b57774a1e594213fdd2/AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-media-compat:25.3.1] /Users/danihimawan/.gradle/caches/transforms-1/files-1.1/support-media-compat-25.3.1.aar/306c6fac50942c2e6841dc0dac58b561/AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-media-compat:25.3.1] /Users/danihimawan/.gradle/caches/transforms-1/files-1.1/support-media-compat-25.3.1.aar/306c6fac50942c2e6841dc0dac58b561/AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-core-utils:25.3.1] /Users/danihimawan/.gradle/caches/transforms-1/files-1.1/support-core-utils-25.3.1.aar/ca35b64a14fe575babd0609df54d00be/AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:support-core-utils:25.3.1] /Users/danihimawan/.gradle/caches/transforms-1/files-1.1/support-core-utils-25.3.1.aar/ca35b64a14fe575babd0609df54d00be/AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:recyclerview-v7:25.3.1] /Users/danihimawan/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-25.3.1.aar/2d940ae68215f0121f79645924769629/AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:recyclerview-v7:25.3.1] /Users/danihimawan/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-25.3.1.aar/2d940ae68215f0121f79645924769629/AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:support-core-ui:25.3.1] /Users/danihimawan/.gradle/caches/transforms-1/files-1.1/support-core-ui-25.3.1.aar/41c50383a6cb5245f7ec9d5e0faf012c/AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-core-ui:25.3.1] /Users/danihimawan/.gradle/caches/transforms-1/files-1.1/support-core-ui-25.3.1.aar/41c50383a6cb5245f7ec9d5e0faf012c/AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:animated-vector-drawable:25.3.1] /Users/danihimawan/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-25.3.1.aar/0d00acbddfaf54e8a4dd03fcf1411083/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:25.3.1] /Users/danihimawan/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-25.3.1.aar/0d00acbddfaf54e8a4dd03fcf1411083/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:25.3.1] /Users/danihimawan/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-25.3.1.aar/06a6bcf7b83028c0796af92226c732a3/AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:support-vector-drawable:25.3.1] /Users/danihimawan/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-25.3.1.aar/06a6bcf7b83028c0796af92226c732a3/AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:support-compat:25.3.1] /Users/danihimawan/.gradle/caches/transforms-1/files-1.1/support-compat-25.3.1.aar/f919cd9c0d5d9292ec975b3f4429396f/AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-compat:25.3.1] /Users/danihimawan/.gradle/caches/transforms-1/files-1.1/support-compat-25.3.1.aar/f919cd9c0d5d9292ec975b3f4429396f/AndroidManifest.xml:21:5-23:58
+INJECTED from /Users/danihimawan/works/research/nativescript/udemy-cources/udemy-courcesApps/platforms/android/app/src/main/AndroidManifest.xml:13:2-15:34
+INJECTED from /Users/danihimawan/works/research/nativescript/udemy-cources/udemy-courcesApps/platforms/android/app/src/main/AndroidManifest.xml:13:2-15:34
+	tools:overrideLibrary
+		ADDED from [com.android.support:design:25.3.1] /Users/danihimawan/.gradle/caches/transforms-1/files-1.1/design-25.3.1.aar/dcf88420c0c447237ce000f78feb2b12/AndroidManifest.xml:23:9-59
+	android:targetSdkVersion
+		ADDED from /Users/danihimawan/works/research/nativescript/udemy-cources/udemy-courcesApps/platforms/android/app/src/main/AndroidManifest.xml:15:3-32
+		INJECTED from /Users/danihimawan/works/research/nativescript/udemy-cources/udemy-courcesApps/platforms/android/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/danihimawan/works/research/nativescript/udemy-cources/udemy-courcesApps/platforms/android/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		ADDED from /Users/danihimawan/works/research/nativescript/udemy-cources/udemy-courcesApps/platforms/android/app/src/main/AndroidManifest.xml:14:3-29
+		INJECTED from /Users/danihimawan/works/research/nativescript/udemy-cources/udemy-courcesApps/platforms/android/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/danihimawan/works/research/nativescript/udemy-cources/udemy-courcesApps/platforms/android/app/src/main/AndroidManifest.xml
+uses-permission#android.permission.READ_EXTERNAL_STORAGE
+ADDED from /Users/danihimawan/works/research/nativescript/udemy-cources/udemy-courcesApps/platforms/android/app/src/main/AndroidManifest.xml:17:2-76
+	android:name
+		ADDED from /Users/danihimawan/works/research/nativescript/udemy-cources/udemy-courcesApps/platforms/android/app/src/main/AndroidManifest.xml:17:19-74
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from /Users/danihimawan/works/research/nativescript/udemy-cources/udemy-courcesApps/platforms/android/app/src/main/AndroidManifest.xml:18:2-77
+	android:name
+		ADDED from /Users/danihimawan/works/research/nativescript/udemy-cources/udemy-courcesApps/platforms/android/app/src/main/AndroidManifest.xml:18:19-75
+uses-permission#android.permission.INTERNET
+ADDED from /Users/danihimawan/works/research/nativescript/udemy-cources/udemy-courcesApps/platforms/android/app/src/main/AndroidManifest.xml:19:2-63
+	android:name
+		ADDED from /Users/danihimawan/works/research/nativescript/udemy-cources/udemy-courcesApps/platforms/android/app/src/main/AndroidManifest.xml:19:19-61
+application
+ADDED from /Users/danihimawan/works/research/nativescript/udemy-cources/udemy-courcesApps/platforms/android/app/src/main/AndroidManifest.xml:21:2-42:16
+MERGED from [com.android.support:design:25.3.1] /Users/danihimawan/.gradle/caches/transforms-1/files-1.1/design-25.3.1.aar/dcf88420c0c447237ce000f78feb2b12/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:design:25.3.1] /Users/danihimawan/.gradle/caches/transforms-1/files-1.1/design-25.3.1.aar/dcf88420c0c447237ce000f78feb2b12/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:appcompat-v7:25.3.1] /Users/danihimawan/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.3.1.aar/178622a03b70ea066c700d2c8561e179/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:appcompat-v7:25.3.1] /Users/danihimawan/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.3.1.aar/178622a03b70ea066c700d2c8561e179/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:transition:25.3.1] /Users/danihimawan/.gradle/caches/transforms-1/files-1.1/transition-25.3.1.aar/b77777cfda487048199effbacdd22b30/AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:transition:25.3.1] /Users/danihimawan/.gradle/caches/transforms-1/files-1.1/transition-25.3.1.aar/b77777cfda487048199effbacdd22b30/AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:support-v4:25.3.1] /Users/danihimawan/.gradle/caches/transforms-1/files-1.1/support-v4-25.3.1.aar/47e785666c71cb6af8022f47f9c56471/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-v4:25.3.1] /Users/danihimawan/.gradle/caches/transforms-1/files-1.1/support-v4-25.3.1.aar/47e785666c71cb6af8022f47f9c56471/AndroidManifest.xml:29:5-20
+MERGED from [:widgets-release:] /Users/danihimawan/.gradle/caches/transforms-1/files-1.1/widgets-release.aar/1e99472c998cb21f3bf60b06c836c1a6/AndroidManifest.xml:11:5-12:19
+MERGED from [:widgets-release:] /Users/danihimawan/.gradle/caches/transforms-1/files-1.1/widgets-release.aar/1e99472c998cb21f3bf60b06c836c1a6/AndroidManifest.xml:11:5-12:19
+MERGED from [com.android.support:support-fragment:25.3.1] /Users/danihimawan/.gradle/caches/transforms-1/files-1.1/support-fragment-25.3.1.aar/4cd629c7a5ef6b57774a1e594213fdd2/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-fragment:25.3.1] /Users/danihimawan/.gradle/caches/transforms-1/files-1.1/support-fragment-25.3.1.aar/4cd629c7a5ef6b57774a1e594213fdd2/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-media-compat:25.3.1] /Users/danihimawan/.gradle/caches/transforms-1/files-1.1/support-media-compat-25.3.1.aar/306c6fac50942c2e6841dc0dac58b561/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-media-compat:25.3.1] /Users/danihimawan/.gradle/caches/transforms-1/files-1.1/support-media-compat-25.3.1.aar/306c6fac50942c2e6841dc0dac58b561/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-core-utils:25.3.1] /Users/danihimawan/.gradle/caches/transforms-1/files-1.1/support-core-utils-25.3.1.aar/ca35b64a14fe575babd0609df54d00be/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-core-utils:25.3.1] /Users/danihimawan/.gradle/caches/transforms-1/files-1.1/support-core-utils-25.3.1.aar/ca35b64a14fe575babd0609df54d00be/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-core-ui:25.3.1] /Users/danihimawan/.gradle/caches/transforms-1/files-1.1/support-core-ui-25.3.1.aar/41c50383a6cb5245f7ec9d5e0faf012c/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-core-ui:25.3.1] /Users/danihimawan/.gradle/caches/transforms-1/files-1.1/support-core-ui-25.3.1.aar/41c50383a6cb5245f7ec9d5e0faf012c/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:animated-vector-drawable:25.3.1] /Users/danihimawan/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-25.3.1.aar/0d00acbddfaf54e8a4dd03fcf1411083/AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:animated-vector-drawable:25.3.1] /Users/danihimawan/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-25.3.1.aar/0d00acbddfaf54e8a4dd03fcf1411083/AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:support-vector-drawable:25.3.1] /Users/danihimawan/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-25.3.1.aar/06a6bcf7b83028c0796af92226c732a3/AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:support-vector-drawable:25.3.1] /Users/danihimawan/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-25.3.1.aar/06a6bcf7b83028c0796af92226c732a3/AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:support-compat:25.3.1] /Users/danihimawan/.gradle/caches/transforms-1/files-1.1/support-compat-25.3.1.aar/f919cd9c0d5d9292ec975b3f4429396f/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-compat:25.3.1] /Users/danihimawan/.gradle/caches/transforms-1/files-1.1/support-compat-25.3.1.aar/f919cd9c0d5d9292ec975b3f4429396f/AndroidManifest.xml:29:5-20
+	android:label
+		ADDED from /Users/danihimawan/works/research/nativescript/udemy-cources/udemy-courcesApps/platforms/android/app/src/main/AndroidManifest.xml:25:3-35
+	android:icon
+		ADDED from /Users/danihimawan/works/research/nativescript/udemy-cources/udemy-courcesApps/platforms/android/app/src/main/AndroidManifest.xml:24:3-32
+	android:allowBackup
+		ADDED from /Users/danihimawan/works/research/nativescript/udemy-cources/udemy-courcesApps/platforms/android/app/src/main/AndroidManifest.xml:23:3-29
+	android:theme
+		ADDED from /Users/danihimawan/works/research/nativescript/udemy-cources/udemy-courcesApps/platforms/android/app/src/main/AndroidManifest.xml:26:3-34
+	android:name
+		ADDED from /Users/danihimawan/works/research/nativescript/udemy-cources/udemy-courcesApps/platforms/android/app/src/main/AndroidManifest.xml:22:3-49
+activity#com.tns.NativeScriptActivity
+ADDED from /Users/danihimawan/works/research/nativescript/udemy-cources/udemy-courcesApps/platforms/android/app/src/main/AndroidManifest.xml:28:3-40:14
+	android:label
+		ADDED from /Users/danihimawan/works/research/nativescript/udemy-cources/udemy-courcesApps/platforms/android/app/src/main/AndroidManifest.xml:30:4-49
+	android:configChanges
+		ADDED from /Users/danihimawan/works/research/nativescript/udemy-cources/udemy-courcesApps/platforms/android/app/src/main/AndroidManifest.xml:31:4-65
+	android:theme
+		ADDED from /Users/danihimawan/works/research/nativescript/udemy-cources/udemy-courcesApps/platforms/android/app/src/main/AndroidManifest.xml:32:4-44
+	android:name
+		ADDED from /Users/danihimawan/works/research/nativescript/udemy-cources/udemy-courcesApps/platforms/android/app/src/main/AndroidManifest.xml:29:4-47
+meta-data#SET_THEME_ON_LAUNCH
+ADDED from /Users/danihimawan/works/research/nativescript/udemy-cources/udemy-courcesApps/platforms/android/app/src/main/AndroidManifest.xml:34:4-87
+	android:resource
+		ADDED from /Users/danihimawan/works/research/nativescript/udemy-cources/udemy-courcesApps/platforms/android/app/src/main/AndroidManifest.xml:34:50-84
+	android:name
+		ADDED from /Users/danihimawan/works/research/nativescript/udemy-cources/udemy-courcesApps/platforms/android/app/src/main/AndroidManifest.xml:34:15-49
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from /Users/danihimawan/works/research/nativescript/udemy-cources/udemy-courcesApps/platforms/android/app/src/main/AndroidManifest.xml:36:4-39:20
+action#android.intent.action.MAIN
+ADDED from /Users/danihimawan/works/research/nativescript/udemy-cources/udemy-courcesApps/platforms/android/app/src/main/AndroidManifest.xml:37:5-57
+	android:name
+		ADDED from /Users/danihimawan/works/research/nativescript/udemy-cources/udemy-courcesApps/platforms/android/app/src/main/AndroidManifest.xml:37:13-54
+category#android.intent.category.LAUNCHER
+ADDED from /Users/danihimawan/works/research/nativescript/udemy-cources/udemy-courcesApps/platforms/android/app/src/main/AndroidManifest.xml:38:5-65
+	android:name
+		ADDED from /Users/danihimawan/works/research/nativescript/udemy-cources/udemy-courcesApps/platforms/android/app/src/main/AndroidManifest.xml:38:15-62
+activity#com.tns.ErrorReportActivity
+ADDED from /Users/danihimawan/works/research/nativescript/udemy-cources/udemy-courcesApps/platforms/android/app/src/main/AndroidManifest.xml:41:3-57
+	android:name
+		ADDED from /Users/danihimawan/works/research/nativescript/udemy-cources/udemy-courcesApps/platforms/android/app/src/main/AndroidManifest.xml:41:13-55
+meta-data#android.support.VERSION
+ADDED from [com.android.support:design:25.3.1] /Users/danihimawan/.gradle/caches/transforms-1/files-1.1/design-25.3.1.aar/dcf88420c0c447237ce000f78feb2b12/AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:appcompat-v7:25.3.1] /Users/danihimawan/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.3.1.aar/178622a03b70ea066c700d2c8561e179/AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:appcompat-v7:25.3.1] /Users/danihimawan/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.3.1.aar/178622a03b70ea066c700d2c8561e179/AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:transition:25.3.1] /Users/danihimawan/.gradle/caches/transforms-1/files-1.1/transition-25.3.1.aar/b77777cfda487048199effbacdd22b30/AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:transition:25.3.1] /Users/danihimawan/.gradle/caches/transforms-1/files-1.1/transition-25.3.1.aar/b77777cfda487048199effbacdd22b30/AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:support-v4:25.3.1] /Users/danihimawan/.gradle/caches/transforms-1/files-1.1/support-v4-25.3.1.aar/47e785666c71cb6af8022f47f9c56471/AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-v4:25.3.1] /Users/danihimawan/.gradle/caches/transforms-1/files-1.1/support-v4-25.3.1.aar/47e785666c71cb6af8022f47f9c56471/AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-fragment:25.3.1] /Users/danihimawan/.gradle/caches/transforms-1/files-1.1/support-fragment-25.3.1.aar/4cd629c7a5ef6b57774a1e594213fdd2/AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-fragment:25.3.1] /Users/danihimawan/.gradle/caches/transforms-1/files-1.1/support-fragment-25.3.1.aar/4cd629c7a5ef6b57774a1e594213fdd2/AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-media-compat:25.3.1] /Users/danihimawan/.gradle/caches/transforms-1/files-1.1/support-media-compat-25.3.1.aar/306c6fac50942c2e6841dc0dac58b561/AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-media-compat:25.3.1] /Users/danihimawan/.gradle/caches/transforms-1/files-1.1/support-media-compat-25.3.1.aar/306c6fac50942c2e6841dc0dac58b561/AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-core-utils:25.3.1] /Users/danihimawan/.gradle/caches/transforms-1/files-1.1/support-core-utils-25.3.1.aar/ca35b64a14fe575babd0609df54d00be/AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-core-utils:25.3.1] /Users/danihimawan/.gradle/caches/transforms-1/files-1.1/support-core-utils-25.3.1.aar/ca35b64a14fe575babd0609df54d00be/AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:recyclerview-v7:25.3.1] /Users/danihimawan/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-25.3.1.aar/2d940ae68215f0121f79645924769629/AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:recyclerview-v7:25.3.1] /Users/danihimawan/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-25.3.1.aar/2d940ae68215f0121f79645924769629/AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:support-core-ui:25.3.1] /Users/danihimawan/.gradle/caches/transforms-1/files-1.1/support-core-ui-25.3.1.aar/41c50383a6cb5245f7ec9d5e0faf012c/AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-core-ui:25.3.1] /Users/danihimawan/.gradle/caches/transforms-1/files-1.1/support-core-ui-25.3.1.aar/41c50383a6cb5245f7ec9d5e0faf012c/AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:animated-vector-drawable:25.3.1] /Users/danihimawan/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-25.3.1.aar/0d00acbddfaf54e8a4dd03fcf1411083/AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:animated-vector-drawable:25.3.1] /Users/danihimawan/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-25.3.1.aar/0d00acbddfaf54e8a4dd03fcf1411083/AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:support-vector-drawable:25.3.1] /Users/danihimawan/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-25.3.1.aar/06a6bcf7b83028c0796af92226c732a3/AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:support-vector-drawable:25.3.1] /Users/danihimawan/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-25.3.1.aar/06a6bcf7b83028c0796af92226c732a3/AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:support-compat:25.3.1] /Users/danihimawan/.gradle/caches/transforms-1/files-1.1/support-compat-25.3.1.aar/f919cd9c0d5d9292ec975b3f4429396f/AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-compat:25.3.1] /Users/danihimawan/.gradle/caches/transforms-1/files-1.1/support-compat-25.3.1.aar/f919cd9c0d5d9292ec975b3f4429396f/AndroidManifest.xml:25:5-27:34
+	android:value
+		ADDED from [com.android.support:design:25.3.1] /Users/danihimawan/.gradle/caches/transforms-1/files-1.1/design-25.3.1.aar/dcf88420c0c447237ce000f78feb2b12/AndroidManifest.xml:27:9-31
+	android:name
+		ADDED from [com.android.support:design:25.3.1] /Users/danihimawan/.gradle/caches/transforms-1/files-1.1/design-25.3.1.aar/dcf88420c0c447237ce000f78feb2b12/AndroidManifest.xml:26:9-47
